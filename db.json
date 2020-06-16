@@ -1,20 +1,3 @@
 {
-"security":[
-{
-"securityname":"A",
-"securityid":1
-},
-{
-"securityname":"B",
-"securityid":2
-},
-{
-"securityname":"C",
-"securityid":3
-},
-{
-"securityname":"D",
-"securityid":4
-}
-]
+	"name": "nishant"
 }
