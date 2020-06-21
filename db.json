@@ -2,37 +2,30 @@
 	"security": [{
 			"securityname": "India",
 			"securityid": 1,
-			"IsChecked": false
 		},
 		{
 			"securityname": "Australia",
 			"securityid": 2,
-			"IsChecked": false
 		},
 		{
 			"securityname": "Canada",
 			"securityid": 3,
-			"IsChecked": false
 		},
 		{
 			"securityname": "Dubai",
 			"securityid": 4,
-			"IsChecked": false
 		},
 		{
 			"securityname": "England",
 			"securityid": 5,
-			"IsChecked": false
 		},
 		{
 			"securityname": "France",
 			"securityid": 6,
-			"IsChecked": false
 		},
 		{
 			"securityname": "Germany",
 			"securityid": 7,
-			"IsChecked": false
 		}
 
 	]
