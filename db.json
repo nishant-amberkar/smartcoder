@@ -1,32 +1,32 @@
 {
-	"security": [{
-			"securityname": "India",
-			"securityid": 1
-		},
-		{
-			"securityname": "Australia",
-			"securityid": 2
-		},
-		{
-			"securityname": "Canada",
-			"securityid": 3
-		},
-		{
-			"securityname": "Dubai",
-			"securityid": 4
-		},
-		{
-			"securityname": "England",
-			"securityid": 5
-		},
-		{
-			"securityname": "France",
-			"securityid": 6
-		},
-		{
-			"securityname": "Germany",
-			"securityid": 7
-		}
-
-	]
+  "country": [
+    {
+      "countryname": "India",
+      "countryid": 1
+    },
+    {
+      "countryname": "Australia",
+      "countryid": 2
+    },
+    {
+      "countryname": "Canada",
+      "countryid": 3
+    },
+    {
+      "countryname": "Dubai",
+      "countryid": 4
+    },
+    {
+      "countryname": "England",
+      "countryid": 5
+    },
+    {
+      "countryname": "France",
+      "countryid": 6
+    },
+    {
+      "countryname": "Germany",
+      "countryid": 7
+    }
+  ]
 }
