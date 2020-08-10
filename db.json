@@ -3,14 +3,14 @@
 			"Name": "Fruit",
 			"ProductType": [{
 				"Id": "1",
-				"ProductImage":"Assets/Mango.png",
+				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
 				"ProductName": "Mango",
 				"Price": "₹ 250",
 				"IsAdded":true,
 				"IsFavourite":false
 			}, {
 				"Id": "2",
-				"ProductImage":"Assets/Mango.png",
+				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
 				"ProductName": "Apple",
 				"Price": "₹ 250",
 				"IsAdded":true,
@@ -21,14 +21,14 @@
 			"Name": "Cookie",
 			"ProductType": [{
 				"Id": "1",
-				"ProductImage":"Asset/Mango.png",
+				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
 				"ProductName": "Cookie Mint",
 				"Price": "₹ 60",
 				"IsAdded":true,
 				"IsFavourite":true
 			}, {
 				"Id": "2",
-				"ProductImage":"Asset/Mango.png",
+				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
 				"ProductName": "Cookie james",
 				"Price": "₹ 50",
 				"IsAdded":true,
