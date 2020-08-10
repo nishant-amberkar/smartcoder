@@ -1,30 +1,38 @@
 {
 	"Category": [{
 			"Name": "Fruit",
-			"FruitType": [{
+			"ProductType": [{
 				"Id": "1",
 				"ProductImage":"Assets/Mango.png",
 				"ProductName": "Mango",
-				"Price": "₹ 250"
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":false
 			}, {
 				"Id": "2",
 				"ProductImage":"Assets/Mango.png",
 				"ProductName": "Apple",
-				"Price": "₹ 250"
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
 			}]
 		},
 		{
 			"Name": "Cookie",
-			"CookieType": [{
+			"ProductType": [{
 				"Id": "1",
 				"ProductImage":"Asset/Mango.png",
 				"ProductName": "Cookie Mint",
-				"Price": "₹ 60"
+				"Price": "₹ 60",
+				"IsAdded":true,
+				"IsFavourite":true
 			}, {
 				"Id": "2",
 				"ProductImage":"Asset/Mango.png",
 				"ProductName": "Cookie james",
-				"Price": "₹ 50"
+				"Price": "₹ 50",
+				"IsAdded":true,
+				"IsFavourite":false
 			}]
 		}
 	]
