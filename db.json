@@ -3,7 +3,7 @@
 			"Name": "Fruit",
 			"ProductType": [{
 				"Id": "1",
-				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
+				"ProductImage":"https://www.nicepng.com/png/full/155-1555738_uroborosmiltoncake-red-velvet-cake-1-kg-price.png",
 				"ProductName": "Mango",
 				"Price": "₹ 250",
 				"IsAdded":true,
@@ -21,14 +21,14 @@
 			"Name": "Cookie",
 			"ProductType": [{
 				"Id": "1",
-				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
+				"ProductImage":"https://lh3.googleusercontent.com/proxy/eU0Hrx0TG7uBptyvLBZtunYHUJtyRmZOe_hZXMCQC90faDu4vuGpt6K9m25n2wRWHqkE9QGHvDri-dwIHmpwahzDAG7WY9_mIc038pD1v1lEjTGARILWwNGFaj8Y6priXL2C2lVeTOGexgaTXkxJfYikDtMmwoTWg5SDG22r37pOhb6g0qEB8k-rM9Y",
 				"ProductName": "Cookie Mint",
 				"Price": "₹ 60",
 				"IsAdded":true,
 				"IsFavourite":true
 			}, {
 				"Id": "2",
-				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
+				"ProductImage":"https://www.pngmart.com/files/11/Fruit-Cake-PNG-HD.png",
 				"ProductName": "Cookie james",
 				"Price": "₹ 50",
 				"IsAdded":true,
