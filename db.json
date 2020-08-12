@@ -3,15 +3,59 @@
 			"Name": "Fruit",
 			"ProductType": [{
 				"Id": "1",
-				"ProductImage":"https://www.nicepng.com/png/full/155-1555738_uroborosmiltoncake-red-velvet-cake-1-kg-price.png",
+				"ProductImage":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c15d.png",
 				"ProductName": "Mango",
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
+			},{
+				"Id": "2",
+				"ProductImage":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1a5.png",
+				"ProductName": "WaterMelons",
 				"Price": "₹ 250",
 				"IsAdded":true,
 				"IsFavourite":false
 			}, {
-				"Id": "2",
-				"ProductImage":"https://pngimg.com/uploads/chocolate_cake/chocolate_cake_PNG56.png",
+				"Id": "3",
+				"ProductImage":"http://assets.stickpng.com/categories/250.png",
 				"ProductName": "Apple",
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
+			},
+			{
+				"Id": "4",
+				"ProductImage":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c12c.png",
+				"ProductName": "Avocado",
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
+			},
+			{
+				"Id": "5",
+				"ProductImage":"http://assets.stickpng.com/categories/254.png",
+				"ProductName": "Blackberris",
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
+			},{
+				"Id": "6",
+				"ProductImage":"http://assets.stickpng.com/categories/255.png",
+				"ProductName": "Cherries",
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
+			},{
+				"Id": "7",
+				"ProductImage":"http://assets.stickpng.com/categories/258.png",
+				"ProductName": "Grapes",
+				"Price": "₹ 250",
+				"IsAdded":true,
+				"IsFavourite":true
+			},{
+				"Id": "8",
+				"ProductImage":"http://assets.stickpng.com/categories/270.png",
+				"ProductName": "PineApple",
 				"Price": "₹ 250",
 				"IsAdded":true,
 				"IsFavourite":true
@@ -30,7 +74,7 @@
 				"Id": "2",
 				"ProductImage":"https://www.pngarts.com/files/4/Cookie-Download-Transparent-PNG-Image.png",
 				"ProductName": "Cookie James",
-				"Price": "₹ 50",
+				"Price": "₹ 80",
 				"IsAdded":true,
 				"IsFavourite":false
 			},{
@@ -44,7 +88,28 @@
 				"Id": "4",
 				"ProductImage":"https://pluspng.com/img-png/cookies-png-cookies-png-photos-954.png",
 				"ProductName": "Cookie Veggi",
-				"Price": "₹ 50",
+				"Price": "₹ 150",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "5",
+				"ProductImage":"https://www.mrpeanutbutters.com/wp-content/uploads/2016/03/mint-cc-cookies2-copy-Copy.png",
+				"ProductName": "Cookie mint",
+				"Price": "₹ 55",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "6",
+				"ProductImage":"https://lh3.googleusercontent.com/proxy/9BQE678Ijz50inbQAM7igQ1bZfEt-CDeqrONy4tW6S7ydV2ooyXypAvxechwpg4Hsa9vYpgxdaFL2BCgnzhoJxzUISt3DAGr8EcrLOAQxZrce986eIG2FluoXMLrMG2YnS0K8noR",
+				"ProductName": "Cookie Simple",
+				"Price": "₹ 65",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "7",
+				"ProductImage":"https://library.kissclipart.com/20180903/heq/kissclipart-oreo-png-clipart-oreo-android-clip-art-89d3e6b2b7b2ffb1.jpg",
+				"ProductName": "Cookie Oreo",
+				"Price": "₹ 35",
 				"IsAdded":true,
 				"IsFavourite":false
 			}]
@@ -53,16 +118,51 @@
 			"Name": "Ice Cream",
 			"ProductType": [{
 				"Id": "1",
-				"ProductImage":"https://lh3.googleusercontent.com/proxy/eU0Hrx0TG7uBptyvLBZtunYHUJtyRmZOe_hZXMCQC90faDu4vuGpt6K9m25n2wRWHqkE9QGHvDri-dwIHmpwahzDAG7WY9_mIc038pD1v1lEjTGARILWwNGFaj8Y6priXL2C2lVeTOGexgaTXkxJfYikDtMmwoTWg5SDG22r37pOhb6g0qEB8k-rM9Y",
-				"ProductName": "Kulfy",
-				"Price": "₹ 60",
+				"ProductImage":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1b6.png",
+				"ProductName": "Cone",
+				"Price": "₹ 75",
 				"IsAdded":true,
 				"IsFavourite":true
-			}, {
+			},{
 				"Id": "2",
-				"ProductImage":"https://www.pngmart.com/files/11/Fruit-Cake-PNG-HD.png",
-				"ProductName": "Cup",
-				"Price": "₹ 50",
+				"ProductImage":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1b4.png",
+				"ProductName": "Chocolate Ice Ball",
+				"Price": "₹ 45",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "3",
+				"ProductImage":"http://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c1ba.png",
+				"ProductName": "Magnum",
+				"Price": "₹ 210",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "4",
+				"ProductImage":"https://control.quicksuvidha.com/files/item/image_file/5ebe2ee0-9eb4-487c-8fec-41bb0a124a4f/md_strawberry_(1).png",
+				"ProductName": "Amul",
+				"Price": "₹ 150",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "5",
+				"ProductImage":"https://cdn.shortpixel.ai/client/q_lossless,ret_img,w_295/https://www.havmor.com/wp-content/uploads/2016/07/Butter-Scotch-Cup.png",
+				"ProductName": "Cup Icecream",
+				"Price": "₹ 20",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "6",
+				"ProductImage":"https://bombaykulfi.com/wp-content/uploads/2018/11/kulfi_two_c.png",
+				"ProductName": "Kulfy",
+				"Price": "₹ 30",
+				"IsAdded":true,
+				"IsFavourite":false
+			},{
+				"Id": "7",
+				"ProductImage":"https://www.baskinrobbinsindia.com/media/catalog/product/cache/1/small_image/9df78eab33525d08d6e5fb8d27136e95/m/a/mango-mania.png",
+				"ProductName": "Candy Ice",
+				"Price": "₹ 25",
 				"IsAdded":true,
 				"IsFavourite":false
 			}]
